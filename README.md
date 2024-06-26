@@ -30,8 +30,8 @@ To run this project, you will need:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/nigelpun/Code-in-Place.git
+    cd Code-in-Place
     ```
 
 2. Install the required libraries:
